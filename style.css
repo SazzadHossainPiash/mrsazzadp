@@ -167,8 +167,11 @@ footer {
 
 ul {
   margin: 0px;
-  list-style: none;
   padding: 0px;
+}
+
+li {
+  list-style: none;
   font-size: 18px;
   font-weight: 600;
   line-height: 27px;
