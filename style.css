@@ -145,3 +145,12 @@ p {
 .sec-doc-right {
   text-align: right;
 }
+
+
+footer {
+  background-color: #0B0D17;
+  text-align: center;
+  padding: 60px 0px;
+  color: white;
+  margin-top: 100px;
+}
