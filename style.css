@@ -26,7 +26,7 @@ p {
 
 .first-section {
   display: flex;
-  padding: 100px 0px;
+  padding: 200px 0px;
 }
 
 .half-section {
@@ -56,4 +56,25 @@ p {
   border-radius: 10px;
   color: #fff;
   text-decoration: none;
+}
+
+.text-box {
+  width: 70%;
+  margin: 15px 0px 50px 0px;
+}
+
+#header-tagline {
+  margin-top: 40px;
+}
+
+.second-div {
+  text-align: center;
+}
+
+.second-div img {
+  width: 60%;
+}
+
+.my-mission {
+  text-align: center;
 }
