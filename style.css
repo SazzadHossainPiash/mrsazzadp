@@ -128,7 +128,8 @@ p {
   background-image: url("images/shapes/shape-1.png");
   background-repeat: no-repeat;
   background-size: 300px;
-  background-position: bottom;
+  background-position: center;
+  background-position: right;
 }
 
 .sec-img-sec img {
@@ -138,5 +139,9 @@ p {
 
 .sec-img-sec2 img {
   width: 65%;
-  padding-left: 25%;
+  padding-left: 5%;
+}
+
+.sec-doc-right {
+  text-align: right;
 }
